@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+.donate-count {
+	/*  margin: 0;
+  padding: 0; */
+	box-sizing: border-box;
+	outline: none;
+	word-break: break-all;
+	font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+		Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
+		"Noto Sans KR", "Malgun Gothic", sans-serif;
+}
+
+/*  body {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}  */
+.donate-count {
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 930px;
+	height: 220px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 5rem;
+	background: #B5C4BF;
+	border-radius: 1rem;
+	color: #7C6C55;
+}
+
+.btn-donate {
+	box-sizing: border-box;
+	outline: none;
+	word-break: break-all;
+	font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+		Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
+		"Noto Sans KR", "Malgun Gothic", sans-serif;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 930px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	background: #B5C4BF;
+	border-radius: 1rem;
+	color: #7C6C55;
+	
+}
+
+.donate-heart {
+	word-break: break-all;
+	font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+		Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
+		"Noto Sans KR", "Malgun Gothic", sans-serif;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 930px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	color: #555;
+}
+
+.ti-heart {
+	color: red;
+}
+.donate-msg {
+	word-break: break-all;
+	font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+		Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
+		"Noto Sans KR", "Malgun Gothic", sans-serif;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 930px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	color: #555;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

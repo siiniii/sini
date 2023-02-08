@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+*{margin: 0;padding:0; font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui,
+		Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
+		"Noto Sans KR", "Malgun Gothic", sans-serif;}
+ul,li{list-style: none}
+body{width:540px;margin: 25px auto;box-shadow: 3px 3px 5px 2px rgba(0,0,0,.2);font-size: 14px}
+h1{display: none}
+
+.main .top{padding:20px;background: #F3EFE3}
+.main .text{padding:20px;background: #827157;color:#fff;line-height: 1.5em;text-align: center}
+
+.main .title{overflow: hidden;margin-bottom: 30px}
+.main .title h2{font-size: 2.2em;color:#7C6C55;float: left;margin-right:10px}
+.main .title p{font-size: .9em}
+
+.main .top>p{font-size: 1.2em;margin-bottom: 8px}
+.main .top img{width:50%;margin: 0 auto;display: block}
+.main .top>p:last-child{font-size: .85em;margin-top: 10px;color:#bd0202;text-align: center}
+
+section{padding:20px}
+section h2{margin-left: 5px;width:100%;border-bottom: 1px solid #ccc;padding-bottom: 5px}
+.info_company div{background: #f8f8f8;padding:10px;margin-top: 10px}
+.info_company div dl{overflow: hidden;margin: 8px 0}
+.info_company div dt{float: left;border-right: 1px solid #666;padding:0 5px;margin: 3px 5px 0 0;font-weight: bold}
+.info_company div dd{padding:0 5px;margin: 3px 5px 0 0 }
+
+.info_pesonal .formBox{padding:10px;background: #f8f8f8;display: block;margin-top:10px}
+.info_pesonal form{margin: 10px 0 5px 0}
+.info_pesonal label{display: block;font-size: 1.15em;font-weight: bold;margin:10px 5px 5px 0}
+.info_pesonal label span{color:#bd0202;font-size: .7em;margin-left: 8px;font-weight: normal}
+.info_pesonal input{padding:10px 5px;border:2px solid #98B2B1}
+.info_pesonal #name,.info_pesonal #email,.info_pesonal #membership{width:97%}
+.info_pesonal .tel1{width:31%;margin-right: 1px}
+.info_pesonal .tel2{margin-right: 1px}
+.info_pesonal .adress2{width:97%;margin: 3px 0}
+
+section .tab_menu{overflow: hidden;margin: 10px auto 0}
+section .tab_menu li{float: left;width:46%;border:1px solid #98B2B1;margin: 2px;padding:10px 5px;text-align: center}
+section .tab_menu li a{display: block}
+section .tab_menu .card-company{width:31%;margin-right: 1px}
+
+.btn_payment {background: #B5C4BF; color: #ffffff;
+						word-break: break-all;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 930px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2rem;
+	color: #555;}

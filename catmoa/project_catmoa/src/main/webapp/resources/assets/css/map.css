@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.map-info {
+	padding:5px;
+}
+.map-info a{
+	font-size: 12px;
+	color:blue;
+}
